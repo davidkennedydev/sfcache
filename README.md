@@ -22,5 +22,5 @@ A service with purpose to provide cache fast to respond and simple to maintain.
 # References
 
 * Redis
-* Memcachd
+* Memcached
 
